@@ -42,3 +42,15 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+# Initial setup
+
+//create
+yarn create react-app react-quiz --template typescript
+
+//styles
+yarn add styled-components @types/styled-components
+
+# Run
+cd react-quiz
+yarn start
