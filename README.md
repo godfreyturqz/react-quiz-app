@@ -45,11 +45,12 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 # Initial setup
 
-create
+-> create
 
 yarn create react-app react-quiz --template typescript
 
-styles
+-> styles
+
 yarn add styled-components @types/styled-components
 
 # Run
