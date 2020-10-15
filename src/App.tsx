@@ -103,12 +103,9 @@ const App = ()=> {
             Next Question
           </button>
         ) : null}
-        
-        
       </Wrapper>
     </>
   );
-
 };
 
 export default App;
