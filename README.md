@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Link
-### quiz-app-gdfy.netlify.app
+https://quiz-app-gdfy.netlify.app/
 
 
 ## Initial setup
