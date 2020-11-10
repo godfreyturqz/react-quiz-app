@@ -1,14 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Link
+## Live Demo
 https://quiz-app-gdfy.netlify.app/
-
 
 ## Initial setup
 
-### create
+### Create the app using TypeScript template
 yarn create react-app react-quiz --template typescript
 
-### styles
+### Add styles in a TypeScript template
 yarn add styled-components @types/styled-components
-
